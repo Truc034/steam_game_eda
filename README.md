@@ -1,25 +1,25 @@
 # 🎮 Steam Games Data Analysis
 
-## 🎯 Goals of the Project
+## 🎯 1. Objectives
 
-This project analyzes the Steam game market to identify key factors contributing to game success and provide actionable insights for developers and publishers. The primary objectives include:
+This project analyzes the Steam game market to understand characteristics that contribute to game success. Key objectives include:
 
 - Understanding the Steam market landscape (size, genre diversity, pricing strategies)
 - Identifying trends in game releases, user engagement, and success patterns over time
 - Uncovering relationships between game attributes (price, genre, reviews, DLC) and success metrics
 - Formulating strategic recommendations for optimal game development and marketing on Steam
 
-## 📊 Data Sources Used
+## 📂 2. Dataset sources
 
-**Primary Dataset:** Steam Games Dataset from Kaggle
-- **Source:** `fronkongames/steam-games-dataset` on Kaggle Hub
-- **Original Size:** 111,452 games × 39 columns
+- **Source:** [Kaggle - Steam Games Dataset by Fronkongames](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data)
+- **Backup Path**: Data used in this project is backed up in [`250718_Steam_dataset.rar`](https://drive.google.com/drive/u/3/folders/1VLbq0dcjlP0BuyW57s3NYV9kpxDQ10i4))
+
+This dataset has been created with [this code](https://github.com/FronkonGames/Steam-Games-Scraper) (MIT) and use the API provided by Steam, the largest gaming platform on PC. Data is also collected from Steam Spy.
+
+## 🔍 3. Dataset overview
+- **Original Size:** 111,452 games × 40 columns
+- **Cleaned Size**: 85,268 games × 54 features (after cleaning and feature engineering)
 - **Analysis Period:** 2004 to May 2025
-- **Final Dataset:** 85,268 games × 54 features (after cleaning and feature engineering)
-
-## 🔍 Data Overview
-
-The dataset contains comprehensive information about games available on the Steam platform.
 
 ### Key Original Columns:
 | Column | Description |
@@ -29,10 +29,12 @@ The dataset contains comprehensive information about games available on the Stea
 | Release date | Game launch date |
 | Estimated owners | Range of estimated game owners |
 | Price | Game price in USD |
-| Positive/Negative | Number of positive/negative reviews |
+| Positive | Number of positive reviews |
+| Negative | Number of negative reviews |
 | Recommendations | User recommendations count |
 | Genres | Game genres (e.g., Action, RPG, Indie) |
-| Developers/Publishers | Game creators and distributors |
+| Publishers | Game creators |
+| Developers | Game distributors |
 | DLC count | Number of downloadable content packages |
 
 ### Data Preprocessing:
