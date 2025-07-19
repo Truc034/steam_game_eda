@@ -90,7 +90,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - **Indie Advantage:** Independent developers achieve better review ratios (0.64)
 - **Market Opportunity:** Top 10 publishers hold only 2.7% market share
 
-## 🧠 Hypotheses Based on Insights
+## 🧠 6. Hypotheses test
 
 | No. | Research Question / Hypothesis                                                               | Status                                                                                                            |
 | --- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -106,42 +106,47 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 | 10  | **Do games released in recent years (2023–2024) outperform earlier releases?**               | ❌ Not supported – While release volume increased, popularity is still concentrated in a small set of older titles |
 
 
-## ✅ Recommendations Based on Analysis Results
+## ✨ 7. Recommendations
 
-### For Developers
-**Focus on Quality Over Quantity** 🏆
-- Prioritize 10-20 high-quality titles rather than mass production
-- Target review ratios of 0.4-0.6 or higher for sustained success
-- Consider niche genres (Strategy, RPG, Simulation) for less competition
+### 1. For Indie Developers & New Studios
+* Leverage **indie credibility** and higher review ratios (0.64).
+* Identify and fill **niche market gaps** (92.5% success rate).
+* Focus on **early community building** to drive engagement loops.
+* Align pricing with actual value delivered, not competitor benchmarks.
+  
+### 2. For Established Studios
+* Use **pricing power** effectively (avg. \$9.73 vs. \$7.17 for indies).
+* Maximize **visibility and reach** through robust marketing pipelines.
+* Avoid high-volume, low-quality strategies
+* Invest in **IP longevity and brand equity** for scalable success.
+  
+### 3. For Publishers & Investors
+* Take a **portfolio approach**, combining niche gems with high-polish mainstream titles.
+* Target **long-term returns** by investing in games with multi-year update potential.
+* Use **quality KPIs** like retention, engagement, and community participation to evaluate teams.
+* Develop **internal F2P capabilities** for live-ops and monetization efficiency.
 
-**Optimize Pricing Strategy** 💰
-- Use $10-30 as the sweet spot for balancing accessibility and value perception
-- Avoid underpricing; higher prices work when value is clearly justified
-- Consider tiered pricing and demo offerings
+## 📌 8. **Conclusion**
 
-### For Publishers
-**Strategic Market Approach** 🎯
-- Embrace quality over quantity in portfolio development
-- Target mature audiences (age 25-45) for stable, valuable demographics
-- Use early review patterns to monitor and adjust title performance
+Steam dominates PC gaming with **132M+ users** per month, but in a market over **85,000+ titles**, success no longer comes from luck — it’s driven by strategic choices.
 
-**DLC Strategy** 🚀
-- Launch DLC after core game proves successful
-- Base DLC development on player feedback
-- Ensure DLC quality matches core experience
+### 🚨 **Avoid These Mistakes**
 
-### For Investors
-**Market Intelligence** 📊
-- Track normalized value scores to identify long-term performers  
-- Invest in developers with consistent review quality across titles
-- Monitor genre trends and emerging niches
+* Prioritizing reviews over player satisfaction
+* Launching DLC too early
+* Underpricing out of fear
+* Ignoring the adult market
+* Treating virality as luck, not strategy
 
-### Common Pitfalls to Avoid ⚠️
-- Optimizing for review scores instead of genuine player satisfaction
-- Launching DLC too early in game lifecycle
-- Underpricing due to fear of low sales
-- Ignoring the valuable adult market segment
+### 🔑 **Top success drivers:**
+
+* **Value wins:** Games offering better value (content vs. price) perform best (r = 0.90).
+* **Community scales success:** The more players and fan support, the faster a game grows.
+* **Attention is concentrated:** A few top games dominate player engagement.
+* **Satisfaction drives reviews:** Focus on making players happy - reviews will follow.
 
 ---
 
-*This analysis reveals that in Steam's competitive landscape, success comes from delivering quality experiences at strategic price points, with sustained engagement through post-launch support rather than relying on initial viral success.*
+> _“In the crowded world of Steam, insight beats instinct.”_
+
+---
