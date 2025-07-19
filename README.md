@@ -39,7 +39,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 
 ## 🛠️ 4. Methodology
 
-### Data Preprocessing:
+### 🔄 4.1. Data Preprocessing:
 - Correct misalignment columns
 - Remove irrelevant columns
 - Check data consistency and convert `estimated owner` ranges to numeric midpoints
@@ -48,7 +48,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - Filtered games from 2004 - 2024
 - Applied outlier capping at 99th percentile
 
-### Feature Engineering:
+### ❇️ 4.2. Feature Engineering:
 - **Total Review:** Positive + Negative
 - **Review Ratio:** Positive reviews / Total reviews
 - **Popularity Score:** Time-normalized composite metric (owners: 50%, reviews: 30%, recommendations: 20%)
@@ -59,7 +59,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - **Popularity per Dollar:** Popularity score / Price
 - **Genre Encoding:** One-hot encoded 33 genres for analysis
 
-### Tools and Technologies Applied
+### ⚙️ 4.3. Tools and Technologies Applied
 
 - **Python Libraries:**
   - `pandas`, `numpy` - Data manipulation and analysis
@@ -70,25 +70,51 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 
 ## 💡 5. Key Insights
 
-### Market Structure
-- Over **85,000 games** released since 2004
-- Steam saw **650% growth** in yearly game releases from 2014 to 2024
-- **2024** was the most active year with **12,128** releases
+### 🏗️ 5.1. Market Structure
+- **Paid games dominate**
+- **Rich genre mix**: 33 genres
+- **Indie-friendly pricing**
 
-### Genre Distribution
-- **Top Genres** by volume: Indie (~60,000 games), Casual (~35,900), Action (~35,000), Adventure (~33,300)
-- **Mainstream Genres** (Indie, Action, Adventure): High volume but intense competition
-- **Niche Genres** (Strategy, RPG, Simulation): Strong engagement with loyal audiences
+### 🍂 5.2. Trends Overtime
+- Explosive Growth in Game Releases from 2017 to 2024.
+- Fall is peak season.
+- Niche genres show no seasonality.
 
-### Success Patterns
-- **Quality Drives Success:** average 63% of total reviews are positive
-- **Sweet Spot Pricing:** $10-30 range shows optimal balance of accessibility and perceived value
-- **Mature Market:** Adult-oriented games show higher price tolerance and engagement
-- **DLC Effectiveness:** Most successful as post-launch extensions
+### 💸 5.3. Pricing & Positioning Strategy
+- Quality matters more than price
+- **$30–60** games for high-quality, well-marketed titles.
+- Avoid low pricing unless have strong visibility.
+- Success comes from polish, marketing, and player engagement, not discounts.
 
-### Developer Insights
-- **Indie Advantage:** Independent developers achieve better review ratios (0.64)
-- **Market Opportunity:** Top 10 publishers hold only 2.7% market share
+### 🕹️ 5.4. Genre Distribution
+- Quality > Genre
+- Design for retention
+- F2P & niche are strong bets
+- Mix genres smartly
+- Avoid genre traps
+
+### 🏷️ 5.5. Publisher & Developer Strategy
+- Focus on quality, not volume
+- Leverage the indie edge
+- Market is open, new players can break in.
+- Choose a fit strategy:  
+  • Broad-scale = high titles, wide reach  
+  • Quality-focus = fewer titles, stronger brand impact
+- Build community early
+
+### 👑 5.6. Legendary Game Strategy
+- Timeless design lasts, invest in quality
+- High review ratios = staying power
+- No lifecycle drop-off
+- Think portfolio: Mix classic, current, and future-focused titles for lasting impact.
+
+### 🤖 5.7. Data-Driven Success Factors
+- Value is king
+- Early popularity scales
+- Long-term wins
+- High price works — if justified
+- DLC boosts after success
+- Focus on players, not just reviews
 
 ## 🧠 6. Hypotheses test
 
@@ -108,19 +134,19 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 
 ## ✨ 7. Recommendations
 
-### 1. For Indie Developers & New Studios
+### 7.1. For Indie Developers & New Studios
 * Leverage **indie credibility** and higher review ratios (0.64).
 * Identify and fill **niche market gaps** (92.5% success rate).
 * Focus on **early community building** to drive engagement loops.
 * Align pricing with actual value delivered, not competitor benchmarks.
   
-### 2. For Established Studios
+### 7.2. For Established Studios
 * Use **pricing power** effectively (avg. \$9.73 vs. \$7.17 for indies).
 * Maximize **visibility and reach** through robust marketing pipelines.
 * Avoid high-volume, low-quality strategies
 * Invest in **IP longevity and brand equity** for scalable success.
   
-### 3. For Publishers & Investors
+### 7.3. For Publishers & Investors
 * Take a **portfolio approach**, combining niche gems with high-polish mainstream titles.
 * Target **long-term returns** by investing in games with multi-year update potential.
 * Use **quality KPIs** like retention, engagement, and community participation to evaluate teams.
