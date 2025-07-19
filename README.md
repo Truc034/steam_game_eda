@@ -137,19 +137,19 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 
 ## ✨ 7. Recommendations
 
-### 7.1. For Indie Developers & New Studios
+### 🆕 7.1. For Indie Developers & New Studios
 * Leverage **indie credibility** and higher review ratios (0.64).
 * Identify and fill **niche market gaps** (92.5% success rate).
 * Focus on **early community building** to drive engagement loops.
 * Align pricing with actual value delivered, not competitor benchmarks.
   
-### 7.2. For Established Studios
+### 🏢 7.2. For Established Studios
 * Use **pricing power** effectively (avg. \$9.73 vs. \$7.17 for indies).
 * Maximize **visibility and reach** through robust marketing pipelines.
 * Avoid high-volume, low-quality strategies
 * Invest in **IP longevity and brand equity** for scalable success.
   
-### 7.3. For Publishers & Investors
+### 💳 7.3. For Publishers & Investors
 * Take a **portfolio approach**, combining niche gems with high-polish mainstream titles.
 * Target **long-term returns** by investing in games with multi-year update potential.
 * Use **quality KPIs** like retention, engagement, and community participation to evaluate teams.
