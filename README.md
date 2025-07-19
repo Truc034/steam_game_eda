@@ -71,9 +71,9 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 ## 💡 5. Key Insights
 
 ### 🏗️ 5.1. Market Structure
-- **Paid games dominate**
-- **Rich genre mix**: 33 genres
-- **Indie-friendly pricing**
+- Paid games dominate.
+- Rich genre mix: 33 genres.
+- Indie-friendly pricing.
 
 ### 🍂 5.2. Trends Overtime
 - Explosive Growth in Game Releases from 2017 to 2024.
@@ -81,40 +81,40 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - Niche genres show no seasonality.
 
 ### 💸 5.3. Pricing & Positioning Strategy
-- Quality matters more than price
+- Quality matters more than price.
 - **$30–60** games for high-quality, well-marketed titles.
 - Avoid low pricing unless have strong visibility.
 - Success comes from polish, marketing, and player engagement, not discounts.
 
 ### 🕹️ 5.4. Genre Distribution
-- Quality > Genre
-- Design for retention
-- F2P & niche are strong bets
-- Mix genres smartly
-- Avoid genre traps
+- Quality > Genre.
+- Design for retention.
+- F2P & niche are strong bets.
+- Mix genres smartly.
+- Avoid genre traps.
 
 ### 🏷️ 5.5. Publisher & Developer Strategy
-- Focus on quality, not volume
-- Leverage the indie edge
+- Focus on quality, not volume.
+- Leverage the indie edge.
 - Market is open, new players can break in.
 - Choose a fit strategy:  
-  • Broad-scale = high titles, wide reach  
-  • Quality-focus = fewer titles, stronger brand impact
-- Build community early
+  • Broad-scale = high titles, wide reach.
+  • Quality-focus = fewer titles, stronger brand impact.
+- Build community early.
 
 ### 👑 5.6. Legendary Game Strategy
-- Timeless design lasts, invest in quality
-- High review ratios = staying power
-- No lifecycle drop-off
+- Timeless design lasts, invest in quality.
+- High review ratios = staying power.
+- No lifecycle drop-off.
 - Think portfolio: Mix classic, current, and future-focused titles for lasting impact.
 
 ### 🤖 5.7. Data-Driven Success Factors
-- Value is king
-- Early popularity scales
-- Long-term wins
-- High price works — if justified
-- DLC boosts after success
-- Focus on players, not just reviews
+- Value is king.
+- Early popularity scales.
+- Long-term wins.
+- High price works — if justified.
+- DLC boosts after success.
+- Focus on players, not just reviews.
 
 ## 🧠 6. Hypotheses test
 
