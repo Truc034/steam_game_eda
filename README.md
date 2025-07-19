@@ -68,36 +68,43 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
   - `kagglehub` - Dataset acquisition
 - **Development Environment:** Jupyter Notebook
 
-## 💡 Key Insights Discovered
+## 💡 5. Key Insights
 
 ### Market Structure
-- **Massive Scale:** Over 85,000 games across 33 genres
-- **Rapid Growth:** 650% increase in yearly releases from 2014-2024
-- **Pricing:** Median price $4.99, with most games affordably priced
-- **Market Concentration:** Few hits dominate; most games have moderate engagement
+- Over **85,000 games** released since 2004
+- Steam saw **650% growth** in yearly game releases from 2014 to 2024
+- **2024** was the most active year with **12,128** releases
 
-### Genre Performance
+### Genre Distribution
+- **Top Genres** by volume: Indie (~60,000 games), Casual (~35,900), Action (~35,000), Adventure (~33,300)
 - **Mainstream Genres** (Indie, Action, Adventure): High volume but intense competition
-- **Strategic Genres** (Strategy, RPG, Simulation): Strong engagement with loyal audiences
-- **Professional Tools:** Low engagement but higher price tolerance
+- **Niche Genres** (Strategy, RPG, Simulation): Strong engagement with loyal audiences
 
 ### Success Patterns
-- **Quality Drives Success:** Higher review ratios correlate with popularity
-- **Sweet Spot Pricing:** $10-30 range balances accessibility and perceived value
+- **Quality Drives Success:** average 63% of total reviews are positive
+- **Sweet Spot Pricing:** $10-30 range shows optimal balance of accessibility and perceived value
 - **Mature Market:** Adult-oriented games show higher price tolerance and engagement
-- **DLC Effectiveness:** Most successful as post-launch extensions, not initial drivers
+- **DLC Effectiveness:** Most successful as post-launch extensions
 
 ### Developer Insights
-- **Indie Advantage:** Independent developers achieve better review ratios (0.64 vs 0.57)
+- **Indie Advantage:** Independent developers achieve better review ratios (0.64)
 - **Market Opportunity:** Top 10 publishers hold only 2.7% market share
 
 ## 🧠 Hypotheses Based on Insights
 
-1. **Quality-First Hypothesis:** Games with higher review ratios will achieve greater popularity regardless of genre or price
-2. **Strategic Pricing Hypothesis:** Games priced in the $10-30 range will show optimal value scores and sales performance
-3. **Niche Focus Hypothesis:** High-quality niche content can yield higher ROI despite lower overall engagement
-4. **Post-Launch DLC Hypothesis:** DLC developed after establishing a strong player base significantly extends profitability
-5. **Mature Audience Hypothesis:** Games targeting adult audiences can command higher prices and achieve stable returns
+| No. | Research Question / Hypothesis                                                               | Status                                                                                                            |
+| --- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1   | **Do indie games receive better user satisfaction (review ratio) than AAA titles?**          | ✅ Supported – Indie games have consistently higher average review ratios                                          |
+| 2   | **Do Fall season releases perform better in terms of popularity score?**                     | ✅ Supported – Fall is the top-performing release window                                                           |
+| 3   | **Are games priced above \$30 more likely to be popular or highly reviewed?**                | ❌ Not supported – Mid-range games (\$5–\$10) show better engagement                                               |
+| 4   | **Do free-to-play games attract more players (higher estimated owners)?**                    | ✅ Supported – Free games tend to have significantly higher player base                                            |
+| 5   | **Does the popularity-to-price ratio (value score) reliably identify top-performing games?** | ✅ Supported – Strong positive correlation found                                                                   |
+| 6   | **Do games with more DLCs tend to achieve higher popularity scores?**                        | ⚠️ Partially supported – Some correlation in top genres, but not universal                                        |
+| 7   | **Are newer games (under 1 year old) more popular than older titles?**                       | ❌ Not supported – Many older games retain high popularity due to updates and IP value                             |
+| 8   | **Do certain genres (e.g., Strategy, RPG, Simulation) show stronger long-term engagement?**  | ✅ Supported – These genres have higher average scores and longevity                                               |
+| 9   | **Does higher required age (e.g., 18+) correlate with better performance?**                  | ❌ Not supported – No significant relationship found between age restriction and popularity or reviews             |
+| 10  | **Do games released in recent years (2023–2024) outperform earlier releases?**               | ❌ Not supported – While release volume increased, popularity is still concentrated in a small set of older titles |
+
 
 ## ✅ Recommendations Based on Analysis Results
 
