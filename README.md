@@ -37,21 +37,29 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 | Developers | Game distributors |
 | DLC count | Number of downloadable content packages |
 
+## 🛠️ 4. Methodology
+
 ### Data Preprocessing:
+- Correct misalignment columns
+- Remove irrelevant columns
+- Check data consistency and convert `estimated owner` ranges to numeric midpoints
+- Handled missing values and check duplicates
 - Removed non-game entries (beta, demo, SDK, tools)
-- Filtered games from 2004-2024 (complete years only)
-- Converted estimated owner ranges to numeric midpoints
-- Handled missing values with appropriate defaults
+- Filtered games from 2004 - 2024
 - Applied outlier capping at 99th percentile
 
 ### Feature Engineering:
+- **Total Review:** Positive + Negative
+- **Review Ratio:** Positive reviews / Total reviews
 - **Popularity Score:** Time-normalized composite metric (owners: 50%, reviews: 30%, recommendations: 20%)
 - **Value Score:** (Popularity × Review Ratio) ÷ (Price + 1)
-- **Review Ratio:** Positive reviews / Total reviews
+- **Game age:** `current_year` - Release year
+- **Popularity quintile:** Bottom 20%, Low, Medium, High, Top 20%
 - **Price Categories:** Free, Under $10, $10-30, $30-60, Over $60
+- **Popularity per Dollar:** Popularity score / Price
 - **Genre Encoding:** One-hot encoded 33 genres for analysis
 
-## 🛠️ Tools and Technologies Applied
+### Tools and Technologies Applied
 
 - **Python Libraries:**
   - `pandas`, `numpy` - Data manipulation and analysis
@@ -59,7 +67,6 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
   - `sklearn` - Machine learning preprocessing
   - `kagglehub` - Dataset acquisition
 - **Development Environment:** Jupyter Notebook
-- **Data Processing:** Feature engineering, outlier treatment, normalization
 
 ## 💡 Key Insights Discovered
 
