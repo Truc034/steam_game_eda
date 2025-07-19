@@ -21,7 +21,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - **Cleaned Size**: 85,268 games × 54 features (after cleaning and feature engineering)
 - **Analysis Period:** 2004 to May 2025
 
-### Key Original Columns:
+### Key Original Columns
 | Column | Description |
 |--------|-------------|
 | AppID | Unique Steam game identifier |
@@ -39,7 +39,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 
 ## 🛠️ 4. Methodology
 
-### 🔄 4.1. Data Preprocessing:
+### 🔄 4.1. Data Preprocessing
 - Correct misalignment columns
 - Remove irrelevant columns
 - Check data consistency and convert `estimated owner` ranges to numeric midpoints
@@ -48,7 +48,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - Filtered games from 2004 - 2024
 - Applied outlier capping at 99th percentile
 
-### ❇️ 4.2. Feature Engineering:
+### ❇️ 4.2. Feature Engineering
 - **Total Review:** Positive + Negative
 - **Review Ratio:** Positive reviews / Total reviews
 - **Popularity Score:** Time-normalized composite metric (owners: 50%, reviews: 30%, recommendations: 20%)
