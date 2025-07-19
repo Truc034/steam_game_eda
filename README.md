@@ -97,9 +97,12 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - Focus on quality, not volume.
 - Leverage the indie edge.
 - Market is open, new players can break in.
-- Choose a fit strategy:  
+- Choose a fit strategy:
+  
   • Broad-scale = high titles, wide reach.
+  
   • Quality-focus = fewer titles, stronger brand impact.
+  
 - Build community early.
 
 ### 👑 5.6. Legendary Game Strategy
@@ -124,7 +127,7 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 | 2   | **Do Fall season releases perform better in terms of popularity score?**                     | ✅ Supported – Fall is the top-performing release window                                                           |
 | 3   | **Are games priced above \$30 more likely to be popular or highly reviewed?**                | ❌ Not supported – Mid-range games (\$5–\$10) show better engagement                                               |
 | 4   | **Do free-to-play games attract more players (higher estimated owners)?**                    | ✅ Supported – Free games tend to have significantly higher player base                                            |
-| 5   | **Does the popularity-to-price ratio (value score) reliably identify top-performing games?** | ✅ Supported – Strong positive correlation found                                                                   |
+| 5   | **Does the popularity-to-price ratio reliably identify top-performing games?**               | ✅ Supported – Strong positive correlation found                                                                   |
 | 6   | **Do games with more DLCs tend to achieve higher popularity scores?**                        | ⚠️ Partially supported – Some correlation in top genres, but not universal                                        |
 | 7   | **Are newer games (under 1 year old) more popular than older titles?**                       | ❌ Not supported – Many older games retain high popularity due to updates and IP value                             |
 | 8   | **Do certain genres (e.g., Strategy, RPG, Simulation) show stronger long-term engagement?**  | ✅ Supported – These genres have higher average scores and longevity                                               |
