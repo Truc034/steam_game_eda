@@ -98,11 +98,8 @@ This dataset has been created with [this code](https://github.com/FronkonGames/S
 - Leverage the indie edge.
 - Market is open, new players can break in.
 - Choose a fit strategy:
-  
   • Broad-scale = high titles, wide reach.
-  
   • Quality-focus = fewer titles, stronger brand impact.
-  
 - Build community early.
 
 ### 👑 5.6. Legendary Game Strategy
